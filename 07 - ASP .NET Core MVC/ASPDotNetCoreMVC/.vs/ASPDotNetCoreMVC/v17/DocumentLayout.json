@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B028077-D090-41B7-BB8D-7A3F18C35CCD}|ToDoList\\TodoList.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\07 - asp .net core mvc\\aspdotnetcoremvc\\todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B028077-D090-41B7-BB8D-7A3F18C35CCD}|ToDoList\\TodoList.csproj|solutionrelative:todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82A496D-DC8C-4DA5-99B7-B8966F3A0089}|Exercice04\\Exercice04.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\07 - asp .net core mvc\\aspdotnetcoremvc\\exercice04\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82A496D-DC8C-4DA5-99B7-B8966F3A0089}|Exercice04\\Exercice04.csproj|solutionrelative:exercice04\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\07 - asp .net core mvc\\aspdotnetcoremvc\\demo01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|solutionrelative:demo01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\07 - asp .net core mvc\\aspdotnetcoremvc\\demo01\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|solutionrelative:demo01\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\07 - asp .net core mvc\\aspdotnetcoremvc\\demo01\\data\\fakecontactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|solutionrelative:demo01\\data\\fakecontactdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\07 - asp .net core mvc\\aspdotnetcoremvc\\demo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|solutionrelative:demo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\07 - asp .net core mvc\\aspdotnetcoremvc\\demo01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56D5A29E-08E9-4C07-B9F1-BC853AC97D66}|Demo01\\Demo01.csproj|solutionrelative:demo01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoList",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\ToDoList\\TodoList.csproj",
+              "RelativeDocumentMoniker": "ToDoList\\TodoList.csproj",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\ToDoList\\TodoList.csproj",
+              "RelativeToolTip": "ToDoList\\TodoList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T08:15:35.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Exercice04\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "Exercice04\\Controllers\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Exercice04\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "Exercice04\\Controllers\\AnimalController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:15:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo01\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo01\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:15:00.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Demo01\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Demo01\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwAwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:14:49.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\Program.cs",
+              "RelativeDocumentMoniker": "Demo01\\Program.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\Program.cs",
+              "RelativeToolTip": "Demo01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:17:04.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo01\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\appsettings.json",
+              "RelativeToolTip": "Demo01\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T11:17:04.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeContactDb.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\Data\\FakeContactDb.cs",
+              "RelativeDocumentMoniker": "Demo01\\Data\\FakeContactDb.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\07 - ASP .NET Core MVC\\ASPDotNetCoreMVC\\Demo01\\Data\\FakeContactDb.cs",
+              "RelativeToolTip": "Demo01\\Data\\FakeContactDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:16:02.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

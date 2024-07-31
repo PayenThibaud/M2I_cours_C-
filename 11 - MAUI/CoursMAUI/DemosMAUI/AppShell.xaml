@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="DemosMAUI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:DemosMAUI"
+    xmlns:views="clr-namespace:DemosMAUI.Views"
+    Title="DemosMAUI">
+    <!--Shell.FlyoutBehavior="Disabled"--><!-- Ne pas oublier de retirer cette prop pour avoir un flyout -->
+
+    <!-- Ne pas oublier "xmlns:views="clr-namespace:DemosMAUI.Views""
+        Pour inclure le namespace DemosMAUI.Views avec l'alias views-->
+
+    
+    <!-- De base on utilise un Flyout si on ne précise que des ShellContent-->
+    <!--<ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+    <ShellContent
+        Title="PageFullCs"
+        ContentTemplate="{DataTemplate views:PageFullCS}"
+        />
+    
+    <ShellContent
+        Title="PushPopPage"
+        ContentTemplate="{DataTemplate views:PushPopPage}"
+        />-->
+
+    <!--<FlyoutItem Title="Bienvenue" >
+        --><!-- avec la propriété FlyoutDisplayOptions="AsMultipleItems" 
+             on affiche directement les sous parties dans le flyout--><!--
+       
+        <Tab Title="Les Mainpages">
+            <ShellContent
+                Title="MainPage"
+                ContentTemplate="{DataTemplate local:MainPage}"/>
+            <ShellContent
+                Title="MainPage2"
+                ContentTemplate="{DataTemplate local:MainPage}"/>
+            <ShellContent
+                Title="MainPage3"
+                ContentTemplate="{DataTemplate local:MainPage}"/>
+        </Tab>
+        <ShellContent
+                Title="MainPage en dehors du groupe"
+                ContentTemplate="{DataTemplate local:MainPage}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Calculatrice">
+        <Tab>
+            <ShellContent
+                Title="Calculatrice"
+                ContentTemplate="{DataTemplate views:Calculatrice}" />
+        </Tab>
+    </FlyoutItem>
+    <FlyoutItem Title="PageFullCs">
+        <Tab>
+            <ShellContent
+                Title="PageFullCs"
+                ContentTemplate="{DataTemplate views:PageFullCS}" />
+        </Tab>
+    </FlyoutItem>
+    
+    <MenuItem Text="Help"
+              Clicked="OnHelpClick" />
+
+    <Shell.FlyoutHeader>
+        <Label Text="TEXTE DU HEADER" HorizontalOptions="Center" VerticalOptions="Center"/>
+    </Shell.FlyoutHeader>
+
+    <Shell.FlyoutFooter>
+        <Label Text="TEXTE DU FOOTER" HorizontalOptions="Center" VerticalOptions="Center"/>
+    </Shell.FlyoutFooter>-->
+
+
+    <!-- TabBar -->
+    <TabBar>
+        <Tab Title="Les Mainpages">
+            <ShellContent
+                Title="MainPage"
+                ContentTemplate="{DataTemplate local:MainPage}"/>
+            <ShellContent
+                Title="MainPage2"
+                ContentTemplate="{DataTemplate local:MainPage}"/>
+            <ShellContent
+                Title="MainPage3"
+                ContentTemplate="{DataTemplate local:MainPage}"/>
+        </Tab>
+        <ShellContent
+        Title="MainPage en dehors du groupe"
+        ContentTemplate="{DataTemplate local:MainPage}"/>
+        <ShellContent
+                Title="Calculatrice"
+                ContentTemplate="{DataTemplate views:Calculatrice}" />
+        <ShellContent
+                Title="PageFullCs"
+                ContentTemplate="{DataTemplate views:PageFullCS}" />
+
+    </TabBar>
+
+</Shell>

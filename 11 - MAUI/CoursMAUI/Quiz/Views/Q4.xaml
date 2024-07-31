@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quiz.Views.Q4"
+             Title="Q4">
+
+    <Grid Padding="20" RowSpacing="5" ColumnSpacing="5"
+       RowDefinitions="2*,*,*"
+       ColumnDefinitions="*,*"
+       BackgroundColor="LightGoldenrodYellow">
+
+        <Label
+            FontSize="22" TextColor="OrangeRed"
+            Text="Qui est ce personnage ?"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Start"
+            Grid.Row="0"
+            Grid.ColumnSpan="2"
+            />
+
+        <Image
+                Source="vegeta.jpg"
+                SemanticProperties.Description="vegeta"
+                HeightRequest="250"
+                WidthRequest="250"
+                HorizontalOptions="Center"
+                Grid.ColumnSpan="2"
+                />
+
+        <Button Text="Goku" TextColor="Black" FontAttributes="Bold" FontSize="22" Grid.Row="1" Grid.Column="0" CornerRadius="50" WidthRequest="300" BackgroundColor="YellowGreen" 
+                Clicked="Loose"/>
+
+        <Button Text="Vegeta" TextColor="Black" FontAttributes="Bold" FontSize="22" Grid.Row="1" Grid.Column="1" CornerRadius="50" WidthRequest="300" BackgroundColor="YellowGreen" 
+                Clicked="Win"/>
+
+        <Button Text="Broly" TextColor="Black" FontAttributes="Bold" FontSize="22" Grid.Row="2" Grid.Column="0" CornerRadius="50" WidthRequest="300" BackgroundColor="YellowGreen"
+                Clicked="Loose"/>
+
+        <Button Text="Nappa" TextColor="Black" FontAttributes="Bold" FontSize="22" Grid.Row="2" Grid.Column="1" CornerRadius="50" WidthRequest="300" BackgroundColor="YellowGreen" 
+                Clicked="Loose"/>
+    </Grid>
+
+</ContentPage>

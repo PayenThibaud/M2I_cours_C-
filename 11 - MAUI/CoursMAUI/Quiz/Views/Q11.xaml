@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quiz.Views.Q11"
+             Title="Bravo">
+
+    <Grid Padding="20" RowSpacing="5" ColumnSpacing="5"
+       RowDefinitions="2*,*"
+       ColumnDefinitions="*"
+       BackgroundColor="LightGoldenrodYellow">
+
+        <Image
+                Source="bravo.jpg"
+                SemanticProperties.Description="bravo"
+                HeightRequest="500"
+                WidthRequest="500"
+                HorizontalOptions="Center"
+                Grid.Row="0"
+                Grid.ColumnSpan="2"
+                />
+
+        <Button Text="Retour à la page d'accueil" TextColor="Black" FontAttributes="Bold" FontSize="22" Grid.Row="1" CornerRadius="50" BackgroundColor="YellowGreen"
+                Clicked="Return"/>
+
+    </Grid>
+
+</ContentPage>

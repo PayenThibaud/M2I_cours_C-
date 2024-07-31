@@ -1,0 +1,12 @@
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\bin\Debug\net6.0\PizzCore.deps.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\bin\Debug\net6.0\PizzCore.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\bin\Debug\net6.0\PizzCore.pdb
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\obj\Debug\net6.0\PizzCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\obj\Debug\net6.0\PizzCore.AssemblyInfoInputs.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\obj\Debug\net6.0\PizzCore.AssemblyInfo.cs
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\obj\Debug\net6.0\PizzCore.csproj.CoreCompileInputs.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\obj\Debug\net6.0\PizzCore.sourcelink.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\obj\Debug\net6.0\PizzCore.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\obj\Debug\net6.0\refint\PizzCore.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\obj\Debug\net6.0\PizzCore.pdb
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\10 - TP Global Pizza\Pizza\PizzaProject\PizzCore\obj\Debug\net6.0\ref\PizzCore.dll

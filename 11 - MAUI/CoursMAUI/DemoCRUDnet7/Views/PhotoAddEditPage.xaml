@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCRUDnet7.Views.PhotoAddEditPage"
+             Title="PhotoAddEditPage">
+    <Grid Margin="100,20" 
+          RowDefinitions="40,40,40,40,40" ColumnDefinitions="*,3*"
+          RowSpacing="20" ColumnSpacing="20">
+        <Label Text="Title" VerticalOptions="Center" />
+        <Entry Text="{Binding Title}" Grid.Column="1"/>
+
+        <Label Text="AlbumId" VerticalOptions="Center" Grid.Row="1"/>
+        <Entry Text="{Binding AlbumId}" Grid.Column="1" Grid.Row="1"/>
+
+        <Label Text="Url" VerticalOptions="Center" Grid.Row="2"/>
+        <Entry Text="{Binding Url}" Grid.Column="1" Grid.Row="2"/>
+
+        <Label Text="ThumbnailUrl" VerticalOptions="Center" Grid.Row="3"/>
+        <Entry Text="{Binding ThumbnailUrl}"  Grid.Column="1" Grid.Row="3"/>
+
+        <Button Text="Submit" Clicked="OnSubmitClicked" Grid.Row="4" Grid.ColumnSpan="2" HorizontalOptions="Center"/>
+    </Grid>
+</ContentPage>

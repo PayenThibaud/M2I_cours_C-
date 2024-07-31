@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\04 - EFCore\\EFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02DF6D1F-CCE7-4247-9D90-AA3097C49F3E}|Correction02Hotel\\Correction02Hotel.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\04 - efcore\\efcore\\correction02hotel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DF6D1F-CCE7-4247-9D90-AA3097C49F3E}|Correction02Hotel\\Correction02Hotel.csproj|solutionrelative:correction02hotel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C94D6F7-5A12-4204-AA94-F996024415D8}|Demo02Relations\\Demo02Relations.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\04 - efcore\\efcore\\demo02relations\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C94D6F7-5A12-4204-AA94-F996024415D8}|Demo02Relations\\Demo02Relations.csproj|solutionrelative:demo02relations\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C94D6F7-5A12-4204-AA94-F996024415D8}|Demo02Relations\\Demo02Relations.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\04 - efcore\\efcore\\demo02relations\\demo02relations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C94D6F7-5A12-4204-AA94-F996024415D8}|Demo02Relations\\Demo02Relations.csproj|solutionrelative:demo02relations\\demo02relations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063D08FE-3F2E-4363-8C6A-D4ECFEFD23F0}|Demo01Decouverte\\Demo01Decouverte.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\04 - efcore\\efcore\\demo01decouverte\\data\\decouvertedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063D08FE-3F2E-4363-8C6A-D4ECFEFD23F0}|Demo01Decouverte\\Demo01Decouverte.csproj|solutionrelative:demo01decouverte\\data\\decouvertedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\04 - EFCore\\EFCore\\Correction02Hotel\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Correction02Hotel\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\04 - EFCore\\EFCore\\Correction02Hotel\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Correction02Hotel\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:14:10.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\04 - EFCore\\EFCore\\Demo02Relations\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Demo02Relations\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\04 - EFCore\\EFCore\\Demo02Relations\\Models\\Blog.cs",
+              "RelativeToolTip": "Demo02Relations\\Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:13:58.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo02Relations",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\04 - EFCore\\EFCore\\Demo02Relations\\Demo02Relations.csproj",
+              "RelativeDocumentMoniker": "Demo02Relations\\Demo02Relations.csproj",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\04 - EFCore\\EFCore\\Demo02Relations\\Demo02Relations.csproj",
+              "RelativeToolTip": "Demo02Relations\\Demo02Relations.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T08:13:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DecouverteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\04 - EFCore\\EFCore\\Demo01Decouverte\\Data\\DecouverteDbContext.cs",
+              "RelativeDocumentMoniker": "Demo01Decouverte\\Data\\DecouverteDbContext.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\04 - EFCore\\EFCore\\Demo01Decouverte\\Data\\DecouverteDbContext.cs",
+              "RelativeToolTip": "Demo01Decouverte\\Data\\DecouverteDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:13:49.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

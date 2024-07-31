@@ -1,0 +1,15 @@
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\bin\Debug\net6.0\Exercice37.exe
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\bin\Debug\net6.0\Exercice37.deps.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\bin\Debug\net6.0\Exercice37.runtimeconfig.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\bin\Debug\net6.0\Exercice37.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\bin\Debug\net6.0\Exercice37.pdb
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\Exercice37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\Exercice37.AssemblyInfoInputs.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\Exercice37.AssemblyInfo.cs
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\Exercice37.csproj.CoreCompileInputs.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\Exercice37.sourcelink.json
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\Exercice37.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\refint\Exercice37.dll
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\Exercice37.pdb
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\Exercice37.genruntimeconfig.cache
+C:\Users\Thibaud Payen\Desktop\M2I formation\dot_net_19_12\01 - Bases Csharp\BasesCsharp\Exercice37\obj\Debug\net6.0\ref\Exercice37.dll

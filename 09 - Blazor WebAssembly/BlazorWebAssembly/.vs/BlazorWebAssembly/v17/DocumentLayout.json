@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\09 - blazor webassembly\\blazorwebassembly\\demoblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\09 - blazor webassembly\\blazorwebassembly\\demoblazor\\pages\\evenements.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\pages\\evenements.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\09 - blazor webassembly\\blazorwebassembly\\demoblazor\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\09 - blazor webassembly\\blazorwebassembly\\demoblazor\\pages\\form.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\pages\\form.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\09 - blazor webassembly\\blazorwebassembly\\demoblazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\09 - blazor webassembly\\blazorwebassembly\\demoblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\09 - blazor webassembly\\blazorwebassembly\\demoblazor\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\09 - blazor webassembly\\blazorwebassembly\\demoblazor\\pages\\asynchrone.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\pages\\asynchrone.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\09 - blazor webassembly\\blazorwebassembly\\demoblazor\\pages\\bind.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{442E58E0-9DF2-4FE4-8A97-8B5586104D1C}|DemoBlazor\\DemoBlazor.csproj|solutionrelative:demoblazor\\pages\\bind.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Counter.razor",
+              "RelativeToolTip": "DemoBlazor\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:46:09.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\FetchData.razor",
+              "RelativeToolTip": "DemoBlazor\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:45:59.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Form.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Pages\\Form.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Form.razor",
+              "RelativeToolTip": "DemoBlazor\\Pages\\Form.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:45:57.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Index.razor",
+              "RelativeToolTip": "DemoBlazor\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:45:54.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "DemoBlazor\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:44:10.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "DemoBlazor\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:44:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Evenements.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Evenements.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Pages\\Evenements.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Evenements.razor",
+              "RelativeToolTip": "DemoBlazor\\Pages\\Evenements.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:43:04.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Asynchrone.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Asynchrone.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Pages\\Asynchrone.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Asynchrone.razor",
+              "RelativeToolTip": "DemoBlazor\\Pages\\Asynchrone.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:42:58.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bind.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Bind.razor",
+              "RelativeDocumentMoniker": "DemoBlazor\\Pages\\Bind.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\09 - Blazor WebAssembly\\BlazorWebAssembly\\DemoBlazor\\Pages\\Bind.razor",
+              "RelativeToolTip": "DemoBlazor\\Pages\\Bind.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:42:40.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "Détails Contact";
+    // Contact contact = (Contact)ViewData["contact"];
+    // Contact contact = (Contact)ViewBag.Contact;
+    Contact contact = Model;
+}
+
+@* Je suis la page pour afficher un contact en détail... *@
+
+@* <div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Pierre Henri</h5>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">gugu@gmail.co</li>
+    <li class="list-group-item">0607080910</li>
+  </ul>
+  <div class="card-body">
+    <a href="#" class="card-link">Retour à la liste</a>
+  </div>
+</div> *@
+
+@if (contact != null)
+{
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">@contact.FirstName @contact.LastName</h5>
+        </div>
+        <ul class="list-group list-group-flush">
+            @* <li class="list-group-item">Email : @contact.Email</li> *@
+            <li class="list-group-item">@Html.DisplayNameFor(m => m.Email) : @contact.Email</li>
+            @* <li class="list-group-item">Téléphone : @contact.Phone</li> *@
+            <li class="list-group-item">@Html.DisplayNameFor(m => m.Phone) : @contact.Phone</li>
+        </ul>
+        <div class="card-body">
+            <a asp-action="Index" class="card-link">Retour à la liste</a>
+        </div>
+    </div>
+}
+else
+{
+    <p class="text-danger">
+        Contact non trouvé !
+    </p>
+}

@@ -1,0 +1,45 @@
+﻿<h3>Child</h3>
+
+<p>
+    <button @onclick="OnClickCallBack">
+        Bouton du child
+    </button>
+</p>
+
+<div>
+    <input @bind="Saisie"/>
+    <button @onclick="OnClickButton">Envoyer la chaine</button>
+</div>
+
+<EditForm Model="Chien" OnSubmit="Submit">
+    <InputText @bind-Value="Chien.Nom" />
+    <InputText @bind-Value="Chien.Race" />
+    <button type="submit">Envoie Chien</button>
+</EditForm>
+
+@code {
+    public string Saisie { get; set; }
+
+    public Chien Chien { get; set; } = new();
+
+    [Parameter]
+    public EventCallback<MouseEventArgs> OnClickCallBack { get; set; }
+    // Propriété qui contiendra une méthode appélée au click, elle prendra en paramêtre un évènnement de click
+
+    [Parameter]
+    public EventCallback<string> CallBackSaisie { get; set; }
+
+    [Parameter]
+    public EventCallback<Chien> CallBackChien { get; set; }
+
+    // public void OnClickButton(MouseEventArgs args)
+    public async Task OnClickButton()
+    {
+        await CallBackSaisie.InvokeAsync(Saisie);
+    }
+
+    public async Task Submit()
+    {
+        await CallBackChien.InvokeAsync(Chien);
+    }
+}

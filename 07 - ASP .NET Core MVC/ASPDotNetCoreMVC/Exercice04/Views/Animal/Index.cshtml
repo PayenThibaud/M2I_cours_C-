@@ -1,0 +1,55 @@
+﻿@model List<Animal>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<p>
+    <a asp-action="Form" class="btn btn-info">Create New</a>
+    <a asp-action="CreateRandom" class="btn btn-secondary">Create New Random</a>
+</p>
+<h2>Liste des @Model.Count animaux</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameForInnerType((Animal model) => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((Animal model) => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((Animal model) => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameForInnerType((Animal model) => model.Species)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var p in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => p.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => p.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => p.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => p.Species)
+            </td>
+            <td>
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@p.Id">Détails de l'animal</a>
+                    <a class="btn btn-warning" asp-action="Form" asp-route-id="@p.Id">Modifier l'animal</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@p.Id">Supprimer l'animal</a>
+                    <a class="btn btn-primary" asp-action="AddToFav" asp-route-id="@p.Id">Ajouter aux favoris</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

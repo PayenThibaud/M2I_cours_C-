@@ -1,0 +1,32 @@
+﻿@page "/async"
+
+<h1>@currentHeading</h1>
+
+<p>
+    <label>Enter new title :</label>
+    <input @bind="newHeading" />
+    <button @onclick="UpdateHeading">Update title</button>
+</p>
+
+@if (IsLoading)
+{
+    @* Afficher un loader en gif *@
+    <p>Loading...</p>
+}
+
+@code {
+    private string currentHeading = "Initial heading";
+    private string? newHeading;
+
+    public bool IsLoading { get; set; } = false;
+
+    private async Task UpdateHeading()
+    {
+        IsLoading = true;
+        await Task.Delay(2000);
+
+        IsLoading = false;
+
+        currentHeading = $"{newHeading}!!!";
+    }
+}

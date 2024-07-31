@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\08 - asp .net core api\\aspdotnetcoreapi\\contactapidto\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|solutionrelative:contactapidto\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\08 - asp .net core api\\aspdotnetcoreapi\\contactapidto\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|solutionrelative:contactapidto\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\08 - asp .net core api\\aspdotnetcoreapi\\contactapidto\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|solutionrelative:contactapidto\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\08 - asp .net core api\\aspdotnetcoreapi\\contactapidto\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|solutionrelative:contactapidto\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\08 - asp .net core api\\aspdotnetcoreapi\\contactapidto\\dtos\\contactfullnamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|solutionrelative:contactapidto\\dtos\\contactfullnamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\08 - asp .net core api\\aspdotnetcoreapi\\contactapidto\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AED5BF-52FE-430D-A897-84AC5AA05CD9}|ContactApiDTO\\ContactApiDTO.csproj|solutionrelative:contactapidto\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ContactApiDTO\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ContactApiDTO\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:20:31.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "ContactApiDTO\\Repositories\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "ContactApiDTO\\Repositories\\ContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:20:08.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactApiDTO\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactApiDTO\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:44:16.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactFullNameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\DTOs\\ContactFullNameDTO.cs",
+              "RelativeDocumentMoniker": "ContactApiDTO\\DTOs\\ContactFullNameDTO.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\DTOs\\ContactFullNameDTO.cs",
+              "RelativeToolTip": "ContactApiDTO\\DTOs\\ContactFullNameDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:44:00.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactApiDTO\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactApiDTO\\Models\\Contact.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:43:39.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\DTOs\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "ContactApiDTO\\DTOs\\ContactDTO.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\08 - ASP .NET Core API\\ASPDotNetCoreAPI\\ContactApiDTO\\DTOs\\ContactDTO.cs",
+              "RelativeToolTip": "ContactApiDTO\\DTOs\\ContactDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:43:36.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoCRUDnet7.Views.PhotoListPage"
+             Title="PhotoListPage">
+    <!-- avec un ViewModel, utiliser refreshview => https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/refreshview -->
+    <ScrollView>
+        <VerticalStackLayout>
+            <Label FontSize="Large" Text="Liste des images :" HorizontalOptions="Center"/>
+            <HorizontalStackLayout Spacing="10" HorizontalOptions="Center">
+                <Button Text="Add New" Clicked="OnAddClicked"/>
+                <Button Text="Refresh" Clicked="OnRefreshClicked"/>
+            </HorizontalStackLayout>
+            <ListView x:Name="TodoListView"
+                  Margin="50,0"
+                  ItemsSource="{Binding}" 
+                  ItemSelected="OnPhotoSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <HorizontalStackLayout Spacing="4">
+                                <Image Source="{Binding ThumbnailUrl}" HeightRequest="150" WidthRequest="150"/>
+                                <Label VerticalOptions="Center" Text="{Binding Title}" FontSize="Medium"/>
+                            </HorizontalStackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

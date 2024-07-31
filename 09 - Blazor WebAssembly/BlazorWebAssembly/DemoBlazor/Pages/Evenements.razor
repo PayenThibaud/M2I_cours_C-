@@ -1,0 +1,24 @@
+﻿@page "/event"
+
+<h3>Evenements</h3>
+
+@for (var i = 0; i < 4; i++)
+{
+    <p>
+        <button @onclick="ReportPointerLocation">
+            @* <button @onclick="(e) => ReportPointerLocation(e)"> *@
+            Where's my mouse pointer for this button?
+        </button>
+    </p>
+}
+
+<p>@_mousePointerMessage</p>
+
+@code {
+    private string? _mousePointerMessage;
+
+    private void ReportPointerLocation(MouseEventArgs e)
+    {
+        _mousePointerMessage = $"Mouse coordinates: {e.ScreenX}:{e.ScreenY}";
+    }
+}

@@ -1,0 +1,33 @@
+﻿@page "/callback-parent"
+
+<h3>Parent</h3>
+
+<Child OnClickCallBack="ShowMessage" 
+    CallBackSaisie="OnCallBackSaisie" 
+    CallBackChien="(chien) => ChienFromChild = chien"/>
+
+<p>@message</p>
+
+<p>@SaisieChild</p>
+
+<p>@ChienFromChild.Nom @ChienFromChild.Race</p>
+
+@code {
+    private string? message;
+
+    public string SaisieChild { get; set; }
+
+    public Chien ChienFromChild { get; set; } = new();
+
+
+    private void ShowMessage(MouseEventArgs e)
+    {
+        message = $" Coordonnées de la souris depuis le child : {e.ScreenX} {e.ScreenY}";
+    }
+
+    // public void OnCallBackSaisie()
+    public void OnCallBackSaisie(string message)
+    {
+        SaisieChild = message;
+    }
+}

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExercicesNombreEtCalculatrice.MainPage">
+
+    <!--<ScrollView>
+        <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0"
+        VerticalOptions="Center">
+
+            <Label
+            Text="Guess the number !"
+            SemanticProperties.HeadingLevel="Level1"
+            FontSize="32"
+            HorizontalOptions="Center" />
+
+            <Image
+            Source="mystery_box.webp"
+            SemanticProperties.Description="which number is in the box ?"
+            HeightRequest="200"
+            HorizontalOptions="Center" />
+
+            <Label
+            Text="Le but du jeu est de deviner le nombre secret compris entre 1 et 100, en utilisant le moins de tentatives possible. Vous avez maximum 10 essais pour trouver."
+            SemanticProperties.HeadingLevel="Level2"
+            SemanticProperties.Description="how to play"
+            FontSize="18"
+            HorizontalOptions="CenterAndExpand" />
+
+            <Label
+            x:Name="ResultLabel"
+            Text=""
+            SemanticProperties.Description="result"
+            FontSize="18"
+            HorizontalOptions="Center"
+            />
+
+            <Entry
+            x:Name="GuessEntry"
+            Placeholder="Enter your guess"
+            SemanticProperties.Description="enter your guess"
+            HorizontalOptions="Center"
+            />
+
+            <Button
+            x:Name="TryBtn"
+            Text="Try"
+            SemanticProperties.Hint="Start to play"
+            Clicked="OnTryClicked"
+            HorizontalOptions="Center" />
+
+            <Button
+            x:Name="ResetBtn"
+            Text="Reset"
+            SemanticProperties.Hint="Reset the game"
+            Clicked="OnResetClicked"
+            HorizontalOptions="Center"
+            IsVisible="False"
+            />
+
+        </VerticalStackLayout>
+    </ScrollView>-->
+
+    <Grid 
+    RowSpacing="5" ColumnSpacing="5" 
+    RowDefinitions="2*,*,*,*,*,*" ColumnDefinitions="*,*,*,*"
+        BackgroundColor="Black"
+    >
+        <Label 
+        Text="placeholder"
+        HorizontalTextAlignment="End" 
+        VerticalTextAlignment="End" 
+        Grid.ColumnSpan="4"
+        FontSize="Large"
+        TextColor="White"
+        />
+        <Button Text="AC" Grid.Row="1" BackgroundColor="LightGray" CornerRadius="25"/>
+        <Button Text="7" Grid.Row="2" BackgroundColor="DarkGray" CornerRadius="25"/>
+        <Button Text="4" Grid.Row="3" BackgroundColor="DarkGray" CornerRadius="25"/>
+        <Button Text="1" Grid.Row="4" BackgroundColor="DarkGray" CornerRadius="25"/>
+        <Button Text="0" Grid.Row="5" BackgroundColor="DarkGray" CornerRadius="25" 
+            Grid.ColumnSpan="2"/>
+
+        <Button Text="+/-" Grid.Row="1" Grid.Column="1" BackgroundColor="LightGray" CornerRadius="25"/>
+        <Button Text="8" Grid.Row="2" Grid.Column="1" BackgroundColor="DarkGray" CornerRadius="25"/>
+        <Button Text="5" Grid.Row="3" Grid.Column="1" BackgroundColor="DarkGray" CornerRadius="25"/>
+        <Button Text="4" Grid.Row="4" Grid.Column="1" BackgroundColor="DarkGray" CornerRadius="25"/>
+
+        <Button Text="%" Grid.Row="1" Grid.Column="2" BackgroundColor="LightGray" CornerRadius="25"/>
+        <Button Text="9" Grid.Row="2" Grid.Column="2" BackgroundColor="DarkGray" CornerRadius="25"/>
+        <Button Text="6" Grid.Row="3" Grid.Column="2" BackgroundColor="DarkGray" CornerRadius="25"/>
+        <Button Text="3" Grid.Row="4" Grid.Column="2" BackgroundColor="DarkGray" CornerRadius="25"/>
+        <Button Text="," Grid.Row="5" Grid.Column="2" BackgroundColor="DarkGray" CornerRadius="25"/>
+
+        <Button Text="/" Grid.Row="1" Grid.Column="3" BackgroundColor="Orange" CornerRadius="25"/>
+        <Button Text="*" Grid.Row="2" Grid.Column="3" BackgroundColor="Orange" CornerRadius="25"/>
+        <Button Text="-" Grid.Row="3" Grid.Column="3" BackgroundColor="Orange" CornerRadius="25"/>
+        <Button Text="+" Grid.Row="4" Grid.Column="3" BackgroundColor="Orange" CornerRadius="25"/>
+        <Button Text="=" Grid.Row="5" Grid.Column="3" BackgroundColor="Orange" CornerRadius="25"/>
+
+    </Grid>
+
+</ContentPage>

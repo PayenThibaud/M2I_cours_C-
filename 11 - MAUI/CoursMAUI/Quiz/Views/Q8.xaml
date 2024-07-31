@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quiz.Views.Q8"
+             Title="Q8">
+
+    <Grid Padding="20" RowSpacing="5" ColumnSpacing="5"
+       RowDefinitions="2*,*,*"
+       ColumnDefinitions="*,*"
+       BackgroundColor="LightGoldenrodYellow">
+
+        <Label
+            FontSize="22" TextColor="OrangeRed"
+            Grid.ColumnSpan="2"
+            Text="Qui est ce personnage ?"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Start"
+            Grid.Row="0"/>
+
+        <Image
+                Source="levi1.jpg"
+                SemanticProperties.Description="Levi"
+                HeightRequest="250"
+                WidthRequest="250"
+                HorizontalOptions="Center"
+                Grid.ColumnSpan="2"
+                />
+
+        <Button Text="Erwin" TextColor="Black" FontAttributes="Bold" FontSize="22" Grid.Row="1" Grid.Column="0" CornerRadius="50" WidthRequest="300" BackgroundColor="YellowGreen" 
+                Clicked="Loose"/>
+
+        <Button Text="Armin" TextColor="Black" FontAttributes="Bold" FontSize="22" Grid.Row="1" Grid.Column="1" CornerRadius="50" WidthRequest="300" BackgroundColor="YellowGreen" 
+                Clicked="Loose"/>
+
+        <Button Text="Livaï" TextColor="Black" FontAttributes="Bold" FontSize="22" Grid.Row="2" Grid.Column="0" CornerRadius="50" WidthRequest="300" BackgroundColor="YellowGreen"
+                Clicked="Win"/>
+
+        <Button Text="Reiner" TextColor="Black" FontAttributes="Bold" FontSize="22" Grid.Row="2" Grid.Column="1" CornerRadius="50" WidthRequest="300" BackgroundColor="YellowGreen" 
+                Clicked="Loose"/>
+    </Grid>
+
+</ContentPage>

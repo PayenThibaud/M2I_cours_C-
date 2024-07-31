@@ -1,0 +1,45 @@
+﻿@model Animal
+@{
+    bool isUpdate = Model != null;
+    ViewData["Title"] = (isUpdate ? "Modifier" : "Ajouter") + " un Animal";
+}
+
+<h1>@(isUpdate ? "Modifier" : "Ajouter")</h1>
+
+<form asp-action="SubmitAnimal" enctype="multipart/form-data">    @*pour un fichier il faut un encodage spécial => multipart/form-data*@
+    <input asp-for="Id" type="hidden" class="form-control">
+    @*
+    On met l'Id dans le formulaire en cas de modification pour pouvoir l'envoyer à notre action Submit
+    Ainsi, dans l'action Submit, on saura si on cherche à modifier ou ajouter un singe
+    *@
+    <div class="mb-3">
+        <label asp-for="FirstName" class="form-label"></label>
+        <input asp-for="FirstName" type="text" class="form-control">
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Age" class="form-label"></label>
+        <input asp-for="Age" type="number" class="form-control">
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Species" class="form-label"></label>
+        <input asp-for="Species" type="text" class="form-control">
+        <span asp-validation-for="Species" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Photo de l'animal</label>
+        <input type="file" name="picture" class="form-control">@*input du fichier picture*@
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+    <div class="text-danger">@Html.ValidationSummary()</div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
